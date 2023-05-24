@@ -1,4 +1,4 @@
-package arithmetic;
+package additionalPackage;
 
 import java.util.stream.IntStream;
 

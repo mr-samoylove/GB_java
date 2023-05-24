@@ -1,7 +1,7 @@
 package Main;
 
-import arithmetic.Calculator;
-import arithmetic.Printer;
+import additionalPackage.Calculator;
+import additionalPackage.Printer;
 
 public class Main {
     public static void main(String[] args) {
