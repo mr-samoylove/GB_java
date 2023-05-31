@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem1">
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem2/TicTacToe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/java/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/java/arithmetic/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/java/additionalPackage/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/java/arithmetic/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminar1/java/additionalPackage/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminar1/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminar1/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminar1/java/additionalPackage/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/sem1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminar1/java/additionalPackage/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/sem1/Printer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,27 +36,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mrsam/Desktop/Projects/Java/seminars/src/seminar1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrsam/Desktop/Projects/Java/seminars/src/seminar1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar2\java\Main" />
+      <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar2" />
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
     </key>
   </component>
@@ -90,8 +91,17 @@
       <option name="presentableId" value="Default" />
       <updated>1684927300509</updated>
       <workItem from="1684927302928" duration="1494000" />
-      <workItem from="1684929479740" duration="1585000" />
+      <workItem from="1684929479740" duration="2281000" />
+      <workItem from="1685527235868" duration="7711000" />
     </task>
+    <task id="LOCAL-00001" summary="sem1">
+      <created>1684931144121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684931144121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sem1" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem1" />
   </component>
 </project>
