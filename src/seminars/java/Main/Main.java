@@ -33,6 +33,8 @@ public class Main {
         allWorkers.add(new MonthlyPaidWorker(70000));
         allWorkers.add(new MonthlyPaidWorker(10000));
 
-        allWorkers.printAllWorkers();
+        for (Worker worker : allWorkers) {
+            System.out.println(worker.getMonthlyAverageSalary());
+        }
     }
 }
