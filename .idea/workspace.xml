@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem1">
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem2/TicTacToe.java" afterDir="false" />
+    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem2">
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem3/AllWorkers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem3/HourlyPaidWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem3/MonthlyPaidWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem3/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/java/additionalPackage/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/sem1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminar1/java/additionalPackage/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/sem1/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +92,8 @@
       <updated>1684927300509</updated>
       <workItem from="1684927302928" duration="1494000" />
       <workItem from="1684929479740" duration="2281000" />
-      <workItem from="1685527235868" duration="7711000" />
+      <workItem from="1685527235868" duration="8530000" />
+      <workItem from="1685788088065" duration="4077000" />
     </task>
     <task id="LOCAL-00001" summary="sem1">
       <created>1684931144121</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684931144121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sem2">
+      <created>1685535807168</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685535807168</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sem1" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem1" />
+    <MESSAGE value="sem2" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem2" />
   </component>
 </project>
