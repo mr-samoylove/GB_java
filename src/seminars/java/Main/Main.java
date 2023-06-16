@@ -1,40 +1,47 @@
 package Main;
 
-import sem3.*;
+import sem4.*;
 
-import java.util.ArrayList;
-import java.util.Collections;
 
 public class Main {
     public static void main(String[] args) {
-        ArrayList<Worker> workers = new ArrayList<>();
-        workers.add(new HourlyPaidWorker(7));
-        workers.add(new HourlyPaidWorker(700));
-        workers.add(new HourlyPaidWorker(800));
-        workers.add(new MonthlyPaidWorker(60000));
-        workers.add(new MonthlyPaidWorker(70000));
-        workers.add(new MonthlyPaidWorker(10000));
 
-        // в) ** Реализовать интерфейсы для возможности сортировки массива
-        Collections.sort(workers);
-        System.out.println(workers);
-        for (Worker worker : workers) {
-            System.out.println(worker.getMonthlyAverageSalary());
+        // нормальный массив
+        String[][] array1 = {{"1", "22", "44", "12345"}, {"0", "0", "0", "0"}, {"0", "0", "0", "0"}, {"0", "0", "0", "0"}};
+
+        // массивы иных размеров
+        String[][] array2 = {{"1", "22", "44", "12345"}, {"0", "0", "0", "0"}, {"0", "0", "0", "0"}};
+        String[][] array3 = {{"1", "22", "44"}, {"0", "0", "0", "0"}, {"0", "0", "0", "0"}, {"0", "0", "0", "0"}};
+
+        // массивы с неверными данными
+        String[][] array4 = {{"1", "22", "44", "12345"}, {"sobaka", "0", "0", "0"}, {"0", "0", "0", "0"}, {"0", "0", "0", "0"}};
+        String[][] array5 = {{"1", "22", "44", "12345.54321"}, {"0", "0", "0", "0"}, {"0", "0", "0", "0"}, {"0", "0", "0", "0"}};
+
+        System.out.println(ArrayHandler.sumStringArray4x4(array1));
+
+        try {
+            System.out.println(ArrayHandler.sumStringArray4x4(array2));
+        } catch (MyArraySizeException e) {
+            System.out.println(e.getMessage());
         }
 
-        System.out.println();
-
-        // г) ** Создать класс, содержащий массив сотрудников, и реализовать возможность вывода данных с использованием foreach.
-        AllWorkers allWorkers = new AllWorkers();
-        allWorkers.add(new HourlyPaidWorker(7));
-        allWorkers.add(new HourlyPaidWorker(700));
-        allWorkers.add(new HourlyPaidWorker(800));
-        allWorkers.add(new MonthlyPaidWorker(60000));
-        allWorkers.add(new MonthlyPaidWorker(70000));
-        allWorkers.add(new MonthlyPaidWorker(10000));
-
-        for (Worker worker : allWorkers) {
-            System.out.println(worker.getMonthlyAverageSalary());
+        try {
+            System.out.println(ArrayHandler.sumStringArray4x4(array3));
+        } catch (MyArraySizeException e) {
+            System.out.println(e.getMessage());
         }
+
+        try {
+            System.out.println(ArrayHandler.sumStringArray4x4(array4));
+        } catch (MyArrayDataException e) {
+            System.out.println(e.getMessage());
+        }
+
+        try {
+            System.out.println(ArrayHandler.sumStringArray4x4(array5));
+        } catch (MyArrayDataException e) {
+            System.out.println(e.getMessage());
+        }
+
     }
 }

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem3">
+    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem3_upd">
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/ArrayHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/MyArraySizeException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/AllWorkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/sem3/AllWorkers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,8 @@
       <workItem from="1684927302928" duration="1494000" />
       <workItem from="1684929479740" duration="2281000" />
       <workItem from="1685527235868" duration="8530000" />
-      <workItem from="1685788088065" duration="4823000" />
+      <workItem from="1685788088065" duration="5234000" />
+      <workItem from="1686911997186" duration="1720000" />
     </task>
     <task id="LOCAL-00001" summary="sem1">
       <created>1684931144121</created>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685792493994</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sem3_upd">
+      <created>1685793311835</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685793311835</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +144,7 @@
     <MESSAGE value="sem1" />
     <MESSAGE value="sem2" />
     <MESSAGE value="sem3" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem3" />
+    <MESSAGE value="sem3_upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem3_upd" />
   </component>
 </project>
