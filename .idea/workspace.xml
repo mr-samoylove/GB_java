@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem3_upd">
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/ArrayHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/MyArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/MyArraySizeException.java" afterDir="false" />
+    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem4">
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem5/BackUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem5/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" afterDir="false" />
     </list>
@@ -56,6 +55,7 @@
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminars\java\sem5" />
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar2\java\Main" />
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar2" />
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
@@ -93,7 +93,8 @@
       <workItem from="1684929479740" duration="2281000" />
       <workItem from="1685527235868" duration="8530000" />
       <workItem from="1685788088065" duration="5234000" />
-      <workItem from="1686911997186" duration="1720000" />
+      <workItem from="1686911997186" duration="2046000" />
+      <workItem from="1687264711264" duration="5709000" />
     </task>
     <task id="LOCAL-00001" summary="sem1">
       <created>1684931144121</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685793311835</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sem4">
+      <created>1686913967742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686913967742</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +153,7 @@
     <MESSAGE value="sem2" />
     <MESSAGE value="sem3" />
     <MESSAGE value="sem3_upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem3_upd" />
+    <MESSAGE value="sem4" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem4" />
   </component>
 </project>
