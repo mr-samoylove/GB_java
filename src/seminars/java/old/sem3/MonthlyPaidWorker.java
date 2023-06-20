@@ -1,4 +1,4 @@
-package sem3;
+package old.sem3;
 
 public class MonthlyPaidWorker extends Worker {
     int salary;

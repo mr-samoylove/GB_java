@@ -1,4 +1,4 @@
-package sem1;
+package old.sem1;
 
 import java.util.stream.IntStream;
 

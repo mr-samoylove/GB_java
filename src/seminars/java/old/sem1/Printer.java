@@ -1,4 +1,4 @@
-package sem1;
+package old.sem1;
 
 public class Printer {
     public final <T> void printToConsole(T... t){

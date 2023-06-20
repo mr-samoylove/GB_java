@@ -1,4 +1,4 @@
-package sem2;
+package old.sem2;
 
 import java.util.Collections;
 import java.util.Objects;

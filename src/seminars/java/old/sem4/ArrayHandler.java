@@ -1,4 +1,4 @@
-package sem4;
+package old.sem4;
 
 public class ArrayHandler {
     public static int sumStringArray4x4(String[][] array) throws MyArraySizeException, MyArrayDataException {

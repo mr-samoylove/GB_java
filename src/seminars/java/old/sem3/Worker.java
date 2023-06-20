@@ -1,4 +1,4 @@
-package sem3;
+package old.sem3;
 
 public abstract class Worker  implements Comparable<Worker>{
 

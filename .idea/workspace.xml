@@ -4,12 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem3_upd">
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/ArrayHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/MyArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/sem4/MyArraySizeException.java" afterDir="false" />
+    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem5">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose-class.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar01/LineDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar01/WriterToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/sample/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem1/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem1/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem2/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem2/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/AllWorkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem3/AllWorkers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/HourlyPaidWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem3/HourlyPaidWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/MonthlyPaidWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem3/MonthlyPaidWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem3/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem4/ArrayHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem4/ArrayHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem4/MyArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem4/MyArrayDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem4/MyArraySizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem4/MyArraySizeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem5/BackUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem5/BackUpper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem5/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem5/Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,33 +44,44 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2QEmpSBhGcQKpOKQfo5BpGAhkN8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrsam/Desktop/Projects/Java/seminars/src/seminar1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mrsam/Desktop/Projects/Java/seminars/src/seminar1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars" />
+      <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminars\java\sem5" />
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar2\java\Main" />
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar2" />
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
@@ -63,11 +89,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
       <module name="seminars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Main.*" />
+          <option name="PATTERN" value="sample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,7 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.sample.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +119,12 @@
       <workItem from="1684929479740" duration="2281000" />
       <workItem from="1685527235868" duration="8530000" />
       <workItem from="1685788088065" duration="5234000" />
-      <workItem from="1686911997186" duration="1720000" />
+      <workItem from="1686911997186" duration="2046000" />
+      <workItem from="1687264711264" duration="6324000" />
+      <workItem from="1696443770119" duration="1077000" />
+      <workItem from="1696870489368" duration="1961000" />
+      <workItem from="1697370897482" duration="3540000" />
+      <workItem from="1697374594691" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="sem1">
       <created>1684931144121</created>
@@ -123,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685793311835</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sem4">
+      <created>1686913967742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686913967742</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sem5">
+      <created>1687271006318</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687271006318</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +190,8 @@
     <MESSAGE value="sem2" />
     <MESSAGE value="sem3" />
     <MESSAGE value="sem3_upd" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem3_upd" />
+    <MESSAGE value="sem4" />
+    <MESSAGE value="sem5" />
+    <option name="LAST_COMMIT_MESSAGE" value="sem5" />
   </component>
 </project>

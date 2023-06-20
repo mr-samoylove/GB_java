@@ -1,4 +1,4 @@
-package sem3;
+package old.sem3;
 
 public class HourlyPaidWorker extends Worker {
     static final double SALARY_MONTHLY_COEFFICIENT = 20.8 * 8;

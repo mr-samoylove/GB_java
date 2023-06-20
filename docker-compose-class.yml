@@ -1,0 +1,8 @@
+services:
+  app:
+    image: bellsoft/liberica-openjdk-alpine:latest
+    command:
+      - javac -sourcepath .\src\seminars\java -d out .\src\seminars\java\sample\Main.java -encoding utf-8
+    volumes:
+      - ./out:/out
+      - ./src:/src
