@@ -4,27 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="sem5">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose-class.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar01/LineDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar01/WriterToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/sample/Main.java" afterDir="false" />
+    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="android_seminar1 commit2">
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar02/IntArrayProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar02/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/Main/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem1/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem1/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem2/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem2/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/AllWorkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem3/AllWorkers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/HourlyPaidWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem3/HourlyPaidWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/MonthlyPaidWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem3/MonthlyPaidWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem3/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem3/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem4/ArrayHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem4/ArrayHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem4/MyArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem4/MyArrayDataException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem4/MyArraySizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem4/MyArraySizeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem5/BackUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem5/BackUpper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/java/sem5/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/old/sem5/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar01_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/seminar01_output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/java/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/java/Seminar01/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,24 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mrsam/Desktop/Projects/Java/seminars/src/seminar1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrsam/Desktop/Projects/Java/seminars/src/seminar1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
@@ -87,13 +72,26 @@
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <option name="MAIN_CLASS_NAME" value="Seminar02.Main" />
       <module name="seminars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="Seminar02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar01.Main" />
+      <module name="seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,7 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sample.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Seminar01.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +123,8 @@
       <workItem from="1696443770119" duration="1077000" />
       <workItem from="1696870489368" duration="1961000" />
       <workItem from="1697370897482" duration="3540000" />
-      <workItem from="1697374594691" duration="615000" />
+      <workItem from="1697374594691" duration="2454000" />
+      <workItem from="1697788904685" duration="2372000" />
     </task>
     <task id="LOCAL-00001" summary="sem1">
       <created>1684931144121</created>
@@ -168,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687271006318</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="android_seminar1">
+      <created>1697375404753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697375404753</updated>
+    </task>
+    <task id="LOCAL-00008" summary="android_seminar1 commit2">
+      <created>1697375624091</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697375624091</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +206,8 @@
     <MESSAGE value="sem3_upd" />
     <MESSAGE value="sem4" />
     <MESSAGE value="sem5" />
-    <option name="LAST_COMMIT_MESSAGE" value="sem5" />
+    <MESSAGE value="android_seminar1" />
+    <MESSAGE value="android_seminar1 commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="android_seminar1 commit2" />
   </component>
 </project>

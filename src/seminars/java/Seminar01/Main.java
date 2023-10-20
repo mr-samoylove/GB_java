@@ -1,7 +1,4 @@
-package sample;
-
-import Seminar01.LineDecorator;
-import Seminar01.WriterToFile;
+package Seminar01;
 
 public class Main {
     public static void main(String[] args) {
