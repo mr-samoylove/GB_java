@@ -20,9 +20,9 @@ public class Student {
 
     public double getAverageGrade() {
         return grades.stream()
-                .mapToDouble(Double::doubleValue)
-                .average()
-                .orElse(0);
+                .reduce(Double::sum)
+                .orElse(0.0)
+                / grades.size();
     }
 
     public void addGrade(double grade) {
