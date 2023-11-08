@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="android_seminar3 commit1">
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar04_task1/LoginAndPasswordChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar04_task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar04_task1/WrongLoginException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar04_task1/WrongPasswordException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar04_task2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar04_task2/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar04_task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar04_task2/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2b5a21f5-c3ba-40dc-99a4-9e178406bcd8" name="Changes" comment="android_seminar5 commit1">
+      <change afterPath="$PROJECT_DIR$/src/seminars/java/Seminar05/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,26 +68,13 @@
       <recent name="C:\Users\mrsam\Desktop\Projects\Java\seminars\src\seminar1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Seminar04_task2.Main">
+  <component name="RunManager" selected="Application.Seminar05.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar02.Main" />
       <module name="seminars" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Seminar02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Seminar01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar01.Main" />
-      <module name="seminars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Seminar01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Seminar05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar05.Main" />
+      <module name="seminars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Seminar05.Main" />
         <item itemvalue="Application.Seminar04_task2.Main" />
         <item itemvalue="Application.Seminar04_task1.Main" />
         <item itemvalue="Application.Seminar03.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Seminar01.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +164,8 @@
       <workItem from="1697374594691" duration="2454000" />
       <workItem from="1697788904685" duration="2833000" />
       <workItem from="1698596591812" duration="3096000" />
-      <workItem from="1698851529602" duration="3485000" />
+      <workItem from="1698851529602" duration="3695000" />
+      <workItem from="1699429560643" duration="5139000" />
     </task>
     <task id="LOCAL-00001" summary="sem1">
       <created>1684931144121</created>
@@ -244,7 +237,28 @@
       <option name="project" value="LOCAL" />
       <updated>1698599110471</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="android_seminar4 commit1">
+      <created>1698855173440</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698855173440</updated>
+    </task>
+    <task id="LOCAL-00012" summary="android_seminar5 commit1">
+      <created>1699435001022</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699435001022</updated>
+    </task>
+    <task id="LOCAL-00013" summary="android_seminar5 commit1">
+      <created>1699435027432</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699435027432</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +286,8 @@
     <MESSAGE value="android_seminar1 commit2" />
     <MESSAGE value="android_seminar2 commit1" />
     <MESSAGE value="android_seminar3 commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="android_seminar3 commit1" />
+    <MESSAGE value="android_seminar4 commit1" />
+    <MESSAGE value="android_seminar5 commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="android_seminar5 commit1" />
   </component>
 </project>
